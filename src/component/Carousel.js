@@ -67,7 +67,7 @@ export default function Carousel() {
             help them rise above their challenges. We believe when they win, we
             win, everybody wins.
           </p>
-          <button>Read More</button>
+          {/* <button>Read More</button> */}
         </div>
       </div>
     </Slider>
