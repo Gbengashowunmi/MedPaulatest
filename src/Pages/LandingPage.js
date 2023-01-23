@@ -28,6 +28,7 @@ export default function LandingPage() {
             data-aos-once="false"
           >
             <h3>What we sell</h3>
+            <p>With over 50 best-selling medical equipment andd healthcare innovations, <strong>MedPau</strong> is driving the future of health care in Africa through <strong>Affordability</strong></p>
             <Link to="/shop">
               {" "}
               <button>Check it out</button>

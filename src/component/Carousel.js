@@ -27,12 +27,6 @@ export default function Carousel() {
         <div className="details">
           <h1> WELCOME TO THE FUTURE OF HEALTH CARE IN AFRICA</h1>
           <h3> -The future is afordability</h3>
-
-          {/* <p>
-            Essential for accurate diagnosis and treatment, medical equipment
-            should be high-quality, reliable and regularly maintained.
-          </p> */}
-          <button>Read More</button>
         </div>
       </div>
       <div className="carousel-item">
@@ -51,7 +45,7 @@ export default function Carousel() {
             Medical equipment engineers design, develop, and maintain medical
             equipment to ensure safety and effectiveness.
           </p>
-          <button>Read More</button>
+          {/* <button>Read More</button> */}
         </div>
       </div>
 
